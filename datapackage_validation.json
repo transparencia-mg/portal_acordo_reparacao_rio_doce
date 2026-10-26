@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.169,
+  "time": 0.182,
   "errors": [],
   "tasks": [
     {
@@ -63,7 +63,7 @@
           "rows": 198
         }
       },
-      "time": 0.037,
+      "time": 0.041,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24087,7 +24087,7 @@
           "rows": 583
         }
       },
-      "time": 0.05,
+      "time": 0.052,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24149,10 +24149,10 @@
         "scheme": "file",
         "title": "Iniciativas",
         "stats": {
-          "hash": "0eb449517cd67ab9005375719f4f027a",
-          "bytes": 7777,
+          "hash": "8a05a25272a29f89f42e6495cdb63111",
+          "bytes": 7860,
           "fields": 4,
-          "rows": 40
+          "rows": 41
         }
       },
       "time": 0.007,
