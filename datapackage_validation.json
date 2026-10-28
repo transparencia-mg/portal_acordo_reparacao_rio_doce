@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.182,
+  "time": 0.223,
   "errors": [],
   "tasks": [
     {
@@ -63,7 +63,7 @@
           "rows": 198
         }
       },
-      "time": 0.041,
+      "time": 0.05,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24081,13 +24081,13 @@
         "scheme": "file",
         "title": "Empenhos",
         "stats": {
-          "hash": "0f7ac9003dd691035e2eae051a729be8",
-          "bytes": 205077,
+          "hash": "71034701e8a135a4c2bbdd71a1041fb9",
+          "bytes": 206200,
           "fields": 30,
-          "rows": 583
+          "rows": 586
         }
       },
-      "time": 0.052,
+      "time": 0.066,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24155,7 +24155,7 @@
           "rows": 41
         }
       },
-      "time": 0.007,
+      "time": 0.009,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24269,13 +24269,13 @@
         "scheme": "file",
         "title": "Órgãos",
         "stats": {
-          "hash": "e92809fb383f7cbe86fb2dd0e3e7be80",
-          "bytes": 4234,
+          "hash": "65c4281bed083804e6f96e2b7139d918",
+          "bytes": 4238,
           "fields": 17,
           "rows": 27
         }
       },
-      "time": 0.019,
+      "time": 0.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24371,7 +24371,7 @@
           "rows": 5
         }
       },
-      "time": 0.009,
+      "time": 0.012,
       "scope": [
         "hash-count-error",
         "byte-count-error",
