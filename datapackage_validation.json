@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.245,
+  "time": 0.186,
   "errors": [],
   "tasks": [
     {
@@ -57,13 +57,13 @@
         "scheme": "file",
         "title": "Rendimentos",
         "stats": {
-          "hash": "b21bf7d6e15616762378e2366e9c1ef9",
-          "bytes": 34960,
+          "hash": "8b95ea9561c1ebc478c9378cdb2e2f87",
+          "bytes": 36556,
           "fields": 9,
-          "rows": 198
+          "rows": 207
         }
       },
-      "time": 0.05,
+      "time": 0.038,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -23913,6 +23913,1086 @@
           "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
         },
         {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445683,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1969600,9"
+          ],
+          "rowNumber": 198,
+          "rowPosition": 199,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"199\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445683,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1969600,9"
+          ],
+          "rowNumber": 198,
+          "rowPosition": 199,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"199\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445683,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445683,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1969600,9"
+          ],
+          "rowNumber": 198,
+          "rowPosition": 199,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445683,0\" in row \"199\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "1969600,9",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445683,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1969600,9"
+          ],
+          "rowNumber": 198,
+          "rowPosition": 199,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"199\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445684,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "39882,91"
+          ],
+          "rowNumber": 199,
+          "rowPosition": 200,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"200\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445684,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "39882,91"
+          ],
+          "rowNumber": 199,
+          "rowPosition": 200,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"200\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445684,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445684,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "39882,91"
+          ],
+          "rowNumber": 199,
+          "rowPosition": 200,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445684,0\" in row \"200\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "39882,91",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445684,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "39882,91"
+          ],
+          "rowNumber": 199,
+          "rowPosition": 200,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"200\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445703,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "391080,71"
+          ],
+          "rowNumber": 200,
+          "rowPosition": 201,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"201\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445703,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "391080,71"
+          ],
+          "rowNumber": 200,
+          "rowPosition": 201,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"201\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445703,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445703,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "391080,71"
+          ],
+          "rowNumber": 200,
+          "rowPosition": 201,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445703,0\" in row \"201\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "391080,71",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445703,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "391080,71"
+          ],
+          "rowNumber": 200,
+          "rowPosition": 201,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"201\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445716,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "10267212,13"
+          ],
+          "rowNumber": 201,
+          "rowPosition": 202,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"202\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445716,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "10267212,13"
+          ],
+          "rowNumber": 201,
+          "rowPosition": 202,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"202\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445716,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445716,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "10267212,13"
+          ],
+          "rowNumber": 201,
+          "rowPosition": 202,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445716,0\" in row \"202\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "10267212,13",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445716,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "10267212,13"
+          ],
+          "rowNumber": 201,
+          "rowPosition": 202,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"202\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445718,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "2760908,38"
+          ],
+          "rowNumber": 202,
+          "rowPosition": 203,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"203\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445718,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "2760908,38"
+          ],
+          "rowNumber": 202,
+          "rowPosition": 203,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"203\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445718,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445718,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "2760908,38"
+          ],
+          "rowNumber": 202,
+          "rowPosition": 203,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445718,0\" in row \"203\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "2760908,38",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445718,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "2760908,38"
+          ],
+          "rowNumber": 202,
+          "rowPosition": 203,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"203\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445719,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "4325012,66"
+          ],
+          "rowNumber": 203,
+          "rowPosition": 204,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"204\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445719,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "4325012,66"
+          ],
+          "rowNumber": 203,
+          "rowPosition": 204,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"204\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445719,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445719,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "4325012,66"
+          ],
+          "rowNumber": 203,
+          "rowPosition": 204,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445719,0\" in row \"204\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "4325012,66",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445719,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "4325012,66"
+          ],
+          "rowNumber": 203,
+          "rowPosition": 204,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"204\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445721,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "3260736,34"
+          ],
+          "rowNumber": 204,
+          "rowPosition": 205,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"205\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445721,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "3260736,34"
+          ],
+          "rowNumber": 204,
+          "rowPosition": 205,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"205\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445721,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445721,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "3260736,34"
+          ],
+          "rowNumber": 204,
+          "rowPosition": 205,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445721,0\" in row \"205\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "3260736,34",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445721,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "3260736,34"
+          ],
+          "rowNumber": 204,
+          "rowPosition": 205,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"205\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445763,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "8613744,4"
+          ],
+          "rowNumber": 205,
+          "rowPosition": 206,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"206\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445763,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "8613744,4"
+          ],
+          "rowNumber": 205,
+          "rowPosition": 206,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"206\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9445763,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445763,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "8613744,4"
+          ],
+          "rowNumber": 205,
+          "rowPosition": 206,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9445763,0\" in row \"206\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "8613744,4",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9445763,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "8613744,4"
+          ],
+          "rowNumber": 205,
+          "rowPosition": 206,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"206\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
+          "cell": "2026,0",
+          "fieldName": "ano_de_exercicio",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9447774,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1507,35"
+          ],
+          "rowNumber": 206,
+          "rowPosition": 207,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"2026,0\" in row \"207\" and field \"ano_de_exercicio\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9999,0",
+          "fieldName": "unidade_orcamentaria_codigo",
+          "fieldNumber": 3,
+          "fieldPosition": 3,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9447774,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1507,35"
+          ],
+          "rowNumber": 206,
+          "rowPosition": 207,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9999,0\" in row \"207\" and field \"unidade_orcamentaria_codigo\" at position \"3\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "9447774,0",
+          "fieldName": "fonte_recurso_codigo",
+          "fieldNumber": 7,
+          "fieldPosition": 7,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9447774,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1507,35"
+          ],
+          "rowNumber": 206,
+          "rowPosition": 207,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"9447774,0\" in row \"207\" and field \"fonte_recurso_codigo\" at position \"7\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
+          "cell": "1507,35",
+          "fieldName": "",
+          "fieldNumber": 9,
+          "fieldPosition": 10,
+          "cells": [
+            "2026,0",
+            "10,0",
+            "9999,0",
+            "EMG - ADMINISTRACAO DIRETA",
+            "1321.01.0.1.01.000",
+            "REMUNERACAO DEPOSITOS BANCARIOS - PRINC.",
+            "9447774,0",
+            "80,0",
+            "RECURSOS DO ACORDO DE REPACTUACAO DO RIO DOCE",
+            "1507,35"
+          ],
+          "rowNumber": 206,
+          "rowPosition": 207,
+          "code": "extra-cell",
+          "name": "Extra Cell",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "",
+          "message": "Row at position \"207\" has an extra value in field at position \"10\"",
+          "description": "This row has more values compared to the header row (the first row in the data source). A key concept is that all the rows in tabular data must have the same number of columns."
+        },
+        {
           "cells": [
             "",
             "",
@@ -23923,10 +25003,10 @@
             "",
             "",
             "",
-            "431850533,7"
+            "463480219,48"
           ],
-          "rowNumber": 198,
-          "rowPosition": 199,
+          "rowNumber": 207,
+          "rowPosition": 208,
           "code": "blank-row",
           "name": "Blank Row",
           "tags": [
@@ -23934,12 +25014,12 @@
             "#row"
           ],
           "note": "",
-          "message": "Row at position \"199\" is completely blank",
+          "message": "Row at position \"208\" is completely blank",
           "description": "This row is empty. A row should contain at least one value."
         }
       ],
       "stats": {
-        "errors": 795
+        "errors": 831
       },
       "valid": false
     },
@@ -24081,13 +25161,13 @@
         "scheme": "file",
         "title": "Empenhos",
         "stats": {
-          "hash": "8f06aff264a7f8f2ab633882f4fc7b9d",
-          "bytes": 208576,
+          "hash": "3b9d1e5da800ffb51c9e188421ccfae8",
+          "bytes": 211248,
           "fields": 30,
-          "rows": 593
+          "rows": 600
         }
       },
-      "time": 0.075,
+      "time": 0.064,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24155,7 +25235,7 @@
           "rows": 41
         }
       },
-      "time": 0.01,
+      "time": 0.007,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24269,13 +25349,13 @@
         "scheme": "file",
         "title": "Órgãos",
         "stats": {
-          "hash": "4f82f6f9b81fa0f79accaba1be75de19",
-          "bytes": 4234,
+          "hash": "530ed0b9109e644c4a661a6f581c3e4b",
+          "bytes": 4235,
           "fields": 17,
           "rows": 27
         }
       },
-      "time": 0.027,
+      "time": 0.019,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24371,7 +25451,7 @@
           "rows": 5
         }
       },
-      "time": 0.014,
+      "time": 0.009,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -24557,7 +25637,7 @@
     }
   ],
   "stats": {
-    "errors": 800,
+    "errors": 836,
     "tasks": 5
   },
   "valid": false
